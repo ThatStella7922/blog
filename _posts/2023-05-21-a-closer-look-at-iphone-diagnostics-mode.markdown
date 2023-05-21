@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A closer look at iPhone diagnostics mode"
-date:   2023-05-21 15:46:57 -0600
+date:   2023-05-21 02:00:00 -0600
 categories: update ios
 ---
 
