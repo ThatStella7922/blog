@@ -5,7 +5,7 @@ date:   2023-05-21 02:00:00 -0600
 categories: update ios
 ---
 
-**For this post, do note that I haven’t done much of any actual research and basing this off my experience with and knowledge about iOS devices and apple repair.**
+**For this post, do note that I haven’t done much of any actual research and am basing this off my experience with and knowledge about iOS devices and apple repair.**
 
 I’ve always wondered about diagnostics mode on iOS devices, and it started years ago when I typed `diags://` into the address bar on my 5th gen iPod touch running iOS 9. If I’m remembering correctly, this URL scheme was associated with a Diagnostics app that was hidden from springboard (Home Screen) and it would basically just show a message asking you to visit Apple’s support site for assistance.
 
