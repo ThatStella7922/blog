@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Birthdays"
+date:   2023-07-11 00:00:00 -0600
+categories: update stella
+---
+
+Today marks my 19th birthday - 19 years on this earth. Some years good, others less good. Good or not though, after an extensive amount of processing and thinking about *everything*, I felt like I wanted to reflect on the past a little. I'm writing this at 5 AM, so things might get deep. Deeper than what I've posted publicly in the past.
+
+## story time
+For years now, every birthday has led to immense feelings of despair and doom. Uncertainty about my life, who I am, what I do, what my goals are, what my impact on people is. I would sit there at night after festivities, crying because I simply *didn't know* what anything about myself meant. Adding onto this was the fact that there was no one I trusted enough to discuss this with. Discussing identity with my parents didn't end well (and to this day still doesn't), and I don't talk enough with my sister to be able to have those kinds of discussions with her.
+
+Essentially, I was on my own for dealing with it, which led to some interesting coping methods to mostly forget about it (very healthy I know). One of those coping methods was keeping up one of the most active internet presences I have ever had to this day. You can call it my chronically online era, as I was all over - Discord, Reddit, Twitter, YouTube comments, interacting with open source projects on GitHub, the works. Keeping up *that* identity certainly helped me think about how I felt about myself and how I wanted to present, but it wasn't really anything conclusive. However, I did make plenty of acquaintances during that time, some stemming from them recognizing me from somewhere else.
+
+One of those acquaintances ended up being special. I really liked her work on the iOS scene, so she ended up becoming a sort of inspiration for me. That inspiration is what ended up making me open up my own APT repository for jailbroken iOS devices and start interacting more with that specific community. I'd start to poke at all kinds of projects that were gaining traction, like [UTM](https://github.com/utmapp/utm) (a great front-end for QEMU supporting iOS and macOS) and most notably [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher_iOS). I very clearly remember checking out the PojavLauncher iOS repo on GitHub, looking at the README and going "hey, I might as well fix some of these typos and grammar mistakes since I'm so good at English." <sub>(I'm not really that good at English)</sub> I even more clearly remember my pull request for those fixes being accepted, therefore listing me as a contributor for that project.
+
+My acquaintance would later find this contribution of mine (zero idea how), and she'd end up sending the message that ended up being the catalyst for something that has proven to be truly remarkable.
+
+![todo write an alt text for this](/images/2023-07-11-birthday/1.png)
+
+This is genuinely how I first met Eva Luna, the girl that I am now happily engaged to. An interesting start to be sure, but one that I'm now thankful for. Over the next year or so, we would become friends - talking about all sorts of devices, projects, and even some daily life. Looking back at tons of old conversations between us, I think we just clicked.
+
+Then, almost exactly one year ago today:
+![todo write an alt text for this](/images/2023-07-11-birthday/2.png)
+
+I had liked her a lot by then, so I felt comfortable telling her that I was seriously considering my trans side. <sub>(My trans origins and such are definitely something for another day, but just know that I had been holding those thoughts for *years*)</sub> The fact that her reply right then and there was immediately supportive? It really just hit different. Looking back, it's one of the many things she's said that I'll never forget.
+
+Few months after that message, she began plenty of courting which is like super fruity, but honestly that just makes it better 💜.
+
+## July 11th, 2023.
+This is the first birthday that has me feeling zero despair, zero gloom, zero negative thoughts. And the more I think about it, the more I realize that it has less to do with myself and more to do with those who helped me through my struggles.
+
+In honor of that, I'd like to give a shoutout to some of the most influential people in my little journey so far.
+
+- Elizabeth[^1] - Always unapologetically herself and she's a real one for that. Great to talk to, best panda in the chat. One of the people that helped me realize that I *should* be myself.
+- Kat[^1] - Same thing as Elizabeth. Always such a unique person to talk to, plus a bendy phone user, plus she's somehow the ffmpeg master. 
+- [wara](https://discordapp.com/users/509199854703214595) - Somehow she moved past me being a terrible person in 2017-18 and we're like actually friends now. She's part of why I decided to rethink and then completely drop my hatred towards fruity people.
+- [xativive](https://discordapp.com/users/823748929107132416) - funny twink that plays val and is also smart sometimes. He's never misgendered or deadnamed me *once* so he's great in my books and it's def confidence boosted me before
+- Ulises[^1] - Longtime friend that stuck with me through my not so good times in 2017-18, and was supportive during the times I was discovering my identity. They continue to be a great friend.
+
+and last, but **certainly** not least: [Eva](https://crystall1ne.dev). Her being an inspiration for me came during a time that I desperately needed it, as I was on a rapidly declining downwards spiral. She gave me the will to get out and start to turn things around. Dare I say, she's the reason I'm still here.
+
+So, to my Eva Luna. I appreciate you, respect you, and love you so much. You legitimately are the best birthday present I could've possibly had today, because what I feel about you is beyond words. and I'm proud to call you mine.
+
+### Thank you for everything so far, and thank you for everything yet to come.
+**\- Stella Luna**
+
+
+---
+[^1]: They didn't tell me if they wanted their social media linked, so I didn't - just in case.
