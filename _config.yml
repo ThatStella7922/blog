@@ -35,6 +35,7 @@ header_pages:
 theme: minima
 plugins:
   - jekyll-feed
+markdown: GFM
 
 # Exclude from processing.
 # The following items will not be processed, by default.

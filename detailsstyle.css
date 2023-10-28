@@ -1,0 +1,50 @@
+/** Links */
+a { color: #e872e2; text-decoration: none; }
+a:visited { color: #e872e2; }
+a:hover { color: #c461bf; text-decoration: underline; }
+.social-media-list a:hover { text-decoration: none; }
+.social-media-list a:hover .username { text-decoration: underline; }
+
+/* styling for details blocks */
+details {
+    background-color: #f3f3f3;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+/* dark mode */
+@media (prefers-color-scheme: dark) {
+    /* Set the body color to a very dark gray */
+    body {
+        background-color: #1a1a1a;
+        color:#FFFFFF;
+    }
+
+    footer {
+        color: #ffffff;
+    }
+
+    /* styling for details blocks */
+    details {
+        background-color: #282828;
+    }
+
+    /** Links */
+    a:visited { color: #bc52b7; }
+    a:hover { color: #c461bf; text-decoration: underline; }
+
+    /** Site header */
+    .site-header { border-top: 5px solid #d2d2d2; border-bottom: 1px solid #353535; min-height: 55.95px; position: relative; }
+
+    .site-title { font-size: 26px; font-weight: 300; line-height: 54px; letter-spacing: -1px; margin-bottom: 0; float: left; }
+    .site-title, .site-title:visited { color: #ffffff; }
+    .site-nav .page-link { color: #eeeeee; line-height: 1.5; }
+
+    /** Blockquotes */
+    blockquote { color: #a8a8a8; border-left: 4px solid #848484; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; }
+    blockquote > :last-child { margin-bottom: 0; }
+
+    /** Code formatting */
+    pre, code { font-size: 15px; border: 1px solid #5b2d59; border-radius: 3px; background-color: rgb(79, 79, 79); }
+
+}
