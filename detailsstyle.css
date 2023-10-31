@@ -95,5 +95,6 @@ a:hover { color: #c461bf; text-decoration: underline; }
 
     /** Code formatting */
     pre, code { font-size: 15px; border: 1px solid #5b2d59; border-radius: 3px; background-color: rgb(79, 79, 79); }
-
+    /** Syntax highlighting styles */
+    .highlighter-rouge .highlight { background: rgb(79, 79, 79); }
 }
