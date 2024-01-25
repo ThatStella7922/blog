@@ -1,0 +1,66 @@
+---
+layout: post
+title:  "Hello, 2024"
+date:   2024-01-25 00:00:00 -0400
+categories: update stella
+---
+
+2024 is now here, and I want to give everyone a bit of an update on everything ThatStella7922.
+
+I've been in Michigan for a few months now with my Eva, and we've managed to settle in pretty decently, all things considered. We're moved in, have the tools we need to get stuff done and are happier than ever together.
+
+I don't quite have a stable income yet, but to help bolster my skills and have something for my resume, I picked [Battery Webhook](https://software.thatstel.la/software/crossplatform-apps/battery-webhook) back up, polished it up quite a bit and released it onto the App Store, with further improvements coming along later this year!
+
+I have also been working on most of my other projects and infrastructure as some might've noticed with the updates to my landing page, blog, and other content in an effort to generally polish up my online image.
+
+Aside from that, thanks to being out of my previous living situation I was able to finally get some more things done, so I am formally announcing my new projects!
+
+## Projects
+
+### [Battery Webook](https://software.thatstel.la/software/crossplatform-apps/battery-webhook)
+*Send your battery info to popular services using webhooks!*
+
+**Battery Webhook** is my flagship project, allowing you to send your battery info to popular services using webhooks. It's a modern Swift+SwiftUI app built from the ground up with source available on GitHub, it supports automations, and is available on the App Store on all Apple platforms!
+
+### [Luxa](https://github.com/ThatStella7922/Luxa)
+*Easier and more accessible Flash media.*
+
+**Luxa** allows you to experience Flash media on devices from your phone to your desktop computer again! Written with pure HTML, CSS, JavaScript and incorporating the Flash emulator known as [Ruffle](https://ruffle.rs/), I aim to make it a performant, user-friendly experience!
+
+- Note that Luxa is upcoming, and has not been released yet!
+
+### [Lyra](https://github.com/ThatStella7922/Lyra)
+*Macintosh power information, at a glance*.
+
+**Lyra** is an app to show the power information of your Mac computer in an easy-to-read format, written with Swift and SwiftUI. It's currently in a very early prototype stage, but I envision an experience similar to coconutbattery once it's in a more complete state.
+
+- Note that Lyra is upcoming, and has not been officially released yet!
+
+## Other small projects
+
+### [pullcert](https://github.com/ThatStella7922/pullcert)
+*pull certificates from web hosts*.
+
+**pullcert** is a simple tool that pulls certificates from web hosts, relying on OpenSSL and Bash. Its main purpose is to take the difficulty out of this process and offer two different representations of the certificate. It has been designed to be simple to use, easily incorporatable into your scripts and to stay out of your way.
+
+- This is a command line based project that does not incorporate a GUI.
+
+### [uwufile](https://github.com/ThatStella7922/uwufile)
+*uwuify your files.*
+
+**uwufile** is a simple uwuifier for text files built on [uwuipy](https://github.com/Cuprum77/uwuipy). It's essentially just a wrapper around the uwuipy library, designed to make usage of it at the command line significantly easier by providing a familiar command-line driven interface, validation, error checking and nice output to let you know what's happening.
+
+- This is a command line based project that does not incorporate a GUI.
+
+### [webos-tools](https://github.com/ThatStella7922/webos-tools)
+*full coreutils on your tv.*
+
+**webos-tools** is a very early and experimental effort to bring a full set of coreutils to rooted webOS TVs. It currently offers a full Bash (not a Busybox shell), is nondestructive, and has been tested on an LG C1 48" running webOS 6.3.2.
+
+- This project is a major work in progress and is not yet ready for end-use.
+- This is a command line based project that does not incorporate a GUI.
+
+---
+
+# Hello, 2024!
+Let's make this a great year.
