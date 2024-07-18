@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An update on the availability of Battery Webhook"
+title:  "An update on the availability of Battery Webhook and my other software"
 date:   2024-07-18 00:00:00 -0400
 categories: software
 ---
