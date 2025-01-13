@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "Welcoming 2025"
+date:   2025-01-12 00:00:00 -0400
+categories: update stella
+---
+
+It's 2025 and I'm realizing that I didn't publish very many blog posts in 2024. Between moving (again) in late 2024 and being busy with life in general I haven't had the time to get much useful stuff done. Now though, I think Eva and I are decently settled.
+
+I have *some* things lined up right now, and I think one of the ones I can talk about is Battery Webhook.
+
+## Battery Webhook
+Ever since I announced that Battery Webhook won't be available on the app store anymore, people wondered if I'm discontinuing it or if the rewrite I've alluded to several times isn't working out, etc, so I decided that I'll finally lay it out here.
+
+Battery Webhook itself is not going anywhere. As a project, I still want to keep it going with versions for new platforms.
+
+# Battery Webhook for Apple platforms
+However, the version for Apple platforms is being discontinued simply because of the fact that developing for them is so obtuse and needlessly complex that I *couldn't get the app to build* yesterday. Why? I don't let Apple bleed 100 bucks a year out of me, which greatly limits what I can do as a dev.
+
+To put it simply, building the app without a paid developer account in Xcode would require me to kill iOS 14 support, make the watchOS app even less useful than it already is and say goodbye to some entitlements that would be useful to the app in the future (like being able to read the device name on iOS 16+). As things are now, with the unmodified code, I literally cannot build battery webhook for iOS with my free account. It is impossible, and Xcode errors out about provisioning profiles lacking certain capabilities. I know what the issue is and I've run into it before but can't fix it as it's just a side effect of not paying for the privilege of developing for Apple platforms.
+
+Paying that $99/yr fee and supporting what is frankly a monopoly (duopoly even, although Google doesn't neuter your development experience if you don't pay them $30 **one-time**) that has proven to be [anti-developer and scam-enabling](https://blog.crystall1ne.dev/posts/2025/01/11/goodbye-apple-developer.html#very-clear-goals) as Eva's blog post mentions, (do read it in its entirety after this, it's a good post) is something I now refuse to do. To those affected by this change, I encourage you to try enacting change at Apple.
+
+As a sort of send-off, I will *attempt* to release a minor version of Battery Webhook this month which will at minimum add device identifiers for new devices. At the very least, I've committed that change to the repo but the main issue continues to be actually compiling the app. I may have to investigate building with the toolchain (i.e without Xcode) which is...eeugh. Info about a new release will be posted when available.
+
+Some may still be wondering about the rewrite, or the supposed Battery Webhook with a single unified core with different UIs for each platform, and the answer to those is that I've canned the rewrite for Apple platforms as I can't work on the app without it being more pain than it's worth, and the "unified core" cross platform Battery Webhook isn't happening as I didn't like any of the solutions available. I'm going to build a native version for each platform I support, which will take longer and be more difficult but hopefully leads to a better quality app on each platform.
+
+For now I can say that the repos for Battery Webhook, BatteryWebhookPkg and all of my other efforts related to it won't be deleted. Also, you will still be able to download the binaries and install from SideStore/AltStore/manual sideloading for the foreseeable future.
+
+# Battery Webhook for Android
+I'm sure many people saw this coming and I *have* outright mentioned it at times, but this is official confirmation that I am going to be working on a fully native Android version of Battery Webhook. I plan to write it in Java and be compatible with as many versions of Android as possible while still retaining great functionality.
+
+Some of the planned design elements are:
+- Seamless automations (like the macOS version)
+- Modern UI with support for button navigation (so you can use it on the weirdest of devices)
+- Support for other types of battery info, like temperature, cycle count, and health
+- Same artwork from the iOS version
+- Extremely low power use
+
+Nothing is concrete yet and there is no ETA. More details will be shared as I work on the app.
+
+# Why Battery Webhook for Android?
+Android as a platform doesn't treat me like a criminal if I refuse to pay Google the one-time $30 fee for Google Play publishing. Which, spoiler, I don't want to pay the fee. I don't feel like Play offers much value to me, and I can offer many of the things it does through my own infrastructure.
+
+In contrast to iOS, I don't lose access to many **extremely** useful APIs if I don't pay and people who want to install Battery Webhook won't have to go through very convoluted sideloading procedures to install the app. Procedures whose complexity exists only because apple wants it to exist. 
+
+Furthermore, even **with** a paid developer account, iOS cannot offer what Android can for this app. iOS has no good way for Battery Webhook to seamlessly run in the background and receive events for automations like macOS does, which is why it requires Shortcuts for automations. The Android version will be able to seamlessly run in the background for automations, as it's just a more capable platform. There's an entire services infrastructure just for background tasks that need to run for a long time while still being efficient.
+
+## OnePlus Pad 1 review
+This content is the first of its kind from me, and it spawned from my general thoughts on the device. This will be a full review of the OnePlus Pad 1, covering everything from the unboxing to the way the speakers sound to the software.
+
+This should be out fairly soon as it's partially done; a preview has been out [on my Patreon](https://www.patreon.com/posts/oneplus-pad-1-1-117409182?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link). Once it is out for everyone, I'd love to get feedback on this type of content.
+
+## Future Android content
+I've been enjoying my time with my OnePlus 12 so much that I got a OnePlus Pad 2 about a month ago, which has been awesome. I will probably do a full review on that as well, because it's way too many words to fit into this post.
+
+Another thing worth mentioning is that I also recently bought an Onn 4K Pro streamer/"`onn. Google TV 4K Pro Streaming Device`" on steep discount and it has brought to light a lot of things that a tiny set top box could do compared to an Apple TV, even with much less performance at its disposal. I might also do a review on this, just because of the amount of cool stuff it does while being so small and so damn cheap.
+
+In general, coming back to using Android devices has been like reacquainting with an old friend in the best way possible. So much versatility in addition to being great daily drivers.
+
+## Ending
+At the end of the day my 2025 has been warm and cuddly and actually pretty uneventful, which is something to be happy about (and I am). Most things are "just working" for me and that's something I always appreciate.
